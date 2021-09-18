@@ -3,3 +3,5 @@ The objective of this competition is to create a machine learning model to predi
 
 
 ## Solution for position 121 out of 935 active participants on the leaderboard 
+### Zindi 
+https://zindi.africa/competitions/financial-inclusion-in-africa/leaderboard
